@@ -79,4 +79,13 @@ Si utiliza los datos, aplicaciones o código de este repositorio, cite:
 
 ## Licencia
 
-La licencia de uso del código y de los datos está pendiente de definición.
+Este repositorio utiliza licencias diferenciadas según el tipo de contenido:
+
+- Los datos experimentales, mediciones, documentación y modelos entrenados se distribuyen bajo la licencia [Creative Commons Atribución 4.0 Internacional (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+- El código fuente y los scripts desarrollados para este proyecto se distribuyen bajo la [Licencia MIT](https://opensource.org/license/mit).
+
+La reutilización de los datos requiere reconocer la autoría y citar este repositorio:
+
+> Hernández Martínez, H. A. (2026). *Resultados_Doc: Datos y aplicaciones de la tesis doctoral* [Conjunto de datos y código fuente]. GitHub. https://github.com/HenryHdez/Resultados_Doc
+
+Los componentes de terceros conservan sus respectivas licencias y no quedan cubiertos por las licencias anteriores.
