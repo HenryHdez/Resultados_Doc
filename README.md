@@ -60,7 +60,22 @@ Universidad Distrital Francisco José de Caldas, Colombia
 
 ## Citación
 
-La referencia bibliográfica completa de la tesis y el identificador permanente del repositorio se incorporarán cuando estén disponibles.
+Si utiliza los datos, aplicaciones o código de este repositorio, cite:
+
+> Hernández Martínez, H. A. (2026). *Resultados_Doc: Datos y aplicaciones de la tesis doctoral* [Conjunto de datos y código fuente]. GitHub. https://github.com/HenryHdez/Resultados_Doc
+
+### BibTeX
+
+```bibtex
+@misc{hernandez2026resultados,
+  author       = {Henry Alberto Hernández Martínez},
+  title        = {Resultados_Doc: Datos y aplicaciones de la tesis doctoral},
+  year         = {2026},
+  publisher    = {GitHub},
+  howpublished = {Repositorio de datos y código fuente},
+  url          = {https://github.com/HenryHdez/Resultados_Doc}
+}
+```
 
 ## Licencia
 
