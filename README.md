@@ -1,8 +1,8 @@
-# Datos y aplicaciones de la tesis doctoral
+# Introdución al repositorio
 
-Este repositorio reúne los datos experimentales, aplicaciones y archivos asociados con la tesis doctoral sobre coordinación y control de un robot modular mediante aprendizaje computacional y comunicación bioinspirada.
+Este repositorio reúne los datos experimentales, aplicaciones y archivos derivados de la tesis doctoral titulada "Método para coordinar y controlar los movimientos de un robot modular tipo cadena en un entorno no estructurado y dinámico utilizando un algoritmo de aprendizaje computacional y un mecanismo de comunicación bio-inspirado".
 
-El propósito del repositorio es facilitar la consulta, organización y reproducción de los experimentos realizados con diferentes métodos de navegación y morfologías del robot.
+El propósito del repositorio es facilitar la consulta, organización y reproducción de los experimentos realizados con diferentes métodos de navegación y morfologías de un robot modular tipo cadena (caso de estudio -Robot EMeRGE-).
 
 ## Estructura del repositorio
 
